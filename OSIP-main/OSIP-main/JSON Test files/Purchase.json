@@ -1,0 +1,13 @@
+{
+  "id": "102",
+  "supplierName": "Shree",
+  "storeName": "Pune",
+  "purchaseOrderId": 1334,
+  "purchaseDate": "2024-02-21",
+  "productName": "Steal",
+  "productId": 4567,
+  "unitPrice": 120,
+  "totalCost": 12000,
+  "status": "pending",
+  "paymentStatus": "paid"
+}
